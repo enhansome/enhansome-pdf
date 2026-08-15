@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2026-08-14T21:35:48Z",
+            "last_commit": "2026-08-15T22:10:07Z",
             "owner": "koreader",
             "repo": "koreader",
-            "stars": 28993
+            "stars": 29029
           }
         },
         {
@@ -76,7 +76,7 @@
             "last_commit": "2025-03-14T14:04:33Z",
             "owner": "tabulapdf",
             "repo": "tabula",
-            "stars": 7466
+            "stars": 7465
           }
         },
         {
@@ -123,7 +123,7 @@
                 "last_commit": "2026-08-06T00:46:50Z",
                 "owner": "jsvine",
                 "repo": "pdfplumber",
-                "stars": 10663
+                "stars": 10664
               }
             }
           ]
@@ -142,10 +142,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T09:09:33Z",
+            "last_commit": "2026-08-15T13:55:31Z",
             "owner": "diegomura",
             "repo": "react-pdf",
-            "stars": 16745
+            "stars": 16746
           }
         },
         {
@@ -207,7 +207,7 @@
             "last_commit": "2026-08-06T22:47:30Z",
             "owner": "ocrmypdf",
             "repo": "OCRmyPDF",
-            "stars": 34447
+            "stars": 34454
           }
         },
         {
@@ -241,7 +241,7 @@
             "last_commit": "2026-06-04T11:56:10Z",
             "owner": "jonaslejon",
             "repo": "malicious-pdf",
-            "stars": 4129
+            "stars": 4130
           }
         },
         {
@@ -275,7 +275,7 @@
             "last_commit": "2026-08-13T18:07:24Z",
             "owner": "pymupdf",
             "repo": "PyMuPDF",
-            "stars": 10475
+            "stars": 10478
           }
         },
         {
@@ -289,7 +289,7 @@
             "last_commit": "2026-08-11T21:07:51Z",
             "owner": "pdfcpu",
             "repo": "pdfcpu",
-            "stars": 8782
+            "stars": 8783
           }
         },
         {
@@ -303,7 +303,7 @@
             "last_commit": "2024-07-17T12:18:51Z",
             "owner": "Hopding",
             "repo": "pdf-lib",
-            "stars": 8579
+            "stars": 8582
           }
         },
         {
@@ -328,7 +328,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-06T23:57:39Z",
+            "last_commit": "2026-08-15T07:46:46Z",
             "owner": "pikepdf",
             "repo": "pikepdf",
             "stars": 2789
@@ -342,7 +342,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T10:59:55Z",
+            "last_commit": "2026-08-15T14:29:10Z",
             "owner": "pypdfium2-team",
             "repo": "pypdfium2",
             "stars": 808
@@ -353,7 +353,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T23:51:37.694Z",
+    "last_updated": "2026-08-15T23:48:36.109Z",
     "original_repository": "py-pdf/awesome-pdf",
     "original_repository_sha": "9f015f869e7e10a3d6e087837274ec0609b2978e",
     "enhanced_repository": "enhansome/enhansome-pdf",
