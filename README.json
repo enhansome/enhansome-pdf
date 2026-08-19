@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8986217,
             "language": "Lua",
-            "last_commit": "2026-08-18T20:13:40Z",
+            "last_commit": "2026-08-19T11:44:08Z",
             "owner": "koreader",
             "repo": "koreader",
-            "stars": 29097
+            "stars": 29107
           }
         },
         {
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 87447705,
             "language": "JavaScript",
             "last_commit": "2024-07-24T01:06:30Z",
             "owner": "FranckFreiburger",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 89375180,
             "language": "JavaScript",
             "last_commit": "2026-08-18T14:12:55Z",
             "owner": "wonday",
@@ -52,18 +55,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51458005,
             "language": "Java",
             "last_commit": "2021-09-14T17:00:12Z",
             "owner": "voghDev",
             "repo": "PdfViewPager",
-            "stars": 1716
+            "stars": 1717
           }
         }
       ],
       "title": "Viewers"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -72,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8711354,
             "language": "CSS",
             "last_commit": "2025-03-14T14:04:33Z",
             "owner": "tabulapdf",
@@ -86,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 61431113,
             "language": "Python",
             "last_commit": "2023-01-05T15:25:42Z",
             "owner": "atlanhq",
@@ -100,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 355337917,
             "language": null,
             "last_commit": "2023-06-02T03:56:06Z",
             "owner": "tstanislawek",
@@ -119,11 +126,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 41279279,
                 "language": "Python",
                 "last_commit": "2026-08-06T00:46:50Z",
                 "owner": "jsvine",
                 "repo": "pdfplumber",
-                "stars": 10677
+                "stars": 10680
               }
             }
           ]
@@ -141,11 +149,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71293321,
             "language": "TypeScript",
             "last_commit": "2026-08-17T23:03:40Z",
             "owner": "diegomura",
             "repo": "react-pdf",
-            "stars": 16748
+            "stars": 16749
           }
         },
         {
@@ -155,6 +164,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7050,
             "language": "Ruby",
             "last_commit": "2026-04-18T13:34:36Z",
             "owner": "prawnpdf",
@@ -169,6 +179,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31595609,
             "language": "PHP",
             "last_commit": "2026-06-11T13:03:42Z",
             "owner": "mpdf",
@@ -183,6 +194,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10127525,
             "language": "JavaScript",
             "last_commit": "2023-10-19T06:34:40Z",
             "owner": "alanshaw",
@@ -203,11 +215,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15333471,
             "language": "Python",
-            "last_commit": "2026-08-18T07:07:50Z",
+            "last_commit": "2026-08-18T23:58:51Z",
             "owner": "ocrmypdf",
             "repo": "OCRmyPDF",
-            "stars": 34490
+            "stars": 34497
           }
         },
         {
@@ -217,18 +230,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 44699330,
             "language": "Python",
             "last_commit": "2026-08-14T14:51:29Z",
             "owner": "pdfarranger",
             "repo": "pdfarranger",
-            "stars": 5786
+            "stars": 5789
           }
         }
       ],
       "title": "Manipulators"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -237,11 +251,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 397204262,
             "language": "Python",
             "last_commit": "2026-06-04T11:56:10Z",
             "owner": "jonaslejon",
             "repo": "malicious-pdf",
-            "stars": 4131
+            "stars": 4133
           }
         },
         {
@@ -251,6 +266,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 536718843,
             "language": "Python",
             "last_commit": "2026-02-07T00:31:01Z",
             "owner": "michelcrypt4d4mus",
@@ -262,7 +278,7 @@
       "title": "File Analysis / Security"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -271,11 +287,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6105714,
             "language": "Python",
-            "last_commit": "2026-08-18T16:47:04Z",
+            "last_commit": "2026-08-19T12:09:05Z",
             "owner": "pymupdf",
             "repo": "PyMuPDF",
-            "stars": 10507
+            "stars": 10511
           }
         },
         {
@@ -285,11 +302,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 94702367,
             "language": "Go",
             "last_commit": "2026-08-17T10:03:36Z",
             "owner": "pdfcpu",
             "repo": "pdfcpu",
-            "stars": 8786
+            "stars": 8789
           }
         },
         {
@@ -299,11 +317,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 102369738,
             "language": "TypeScript",
             "last_commit": "2024-07-17T12:18:51Z",
             "owner": "Hopding",
             "repo": "pdf-lib",
-            "stars": 8589
+            "stars": 8590
           }
         },
         {
@@ -313,6 +332,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 310857764,
             "language": "Python",
             "last_commit": "2026-08-03T21:08:44Z",
             "owner": "borb-pdf",
@@ -327,6 +347,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 103577933,
             "language": "Python",
             "last_commit": "2026-08-18T07:46:48Z",
             "owner": "pikepdf",
@@ -341,8 +362,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 420412416,
             "language": "Python",
-            "last_commit": "2026-08-18T14:31:34Z",
+            "last_commit": "2026-08-19T12:07:38Z",
             "owner": "pypdfium2-team",
             "repo": "pypdfium2",
             "stars": 809
@@ -353,8 +375,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T23:50:16.927Z",
+    "last_updated": "2026-08-19T12:45:46.496Z",
     "original_repository": "py-pdf/awesome-pdf",
+    "original_repository_id": 481462464,
     "original_repository_sha": "9f015f869e7e10a3d6e087837274ec0609b2978e",
     "enhanced_repository": "enhansome/enhansome-pdf",
     "enhanced_repository_description": null,
