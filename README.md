@@ -19,7 +19,7 @@ A curated list of resources around PDF files
 
 ## Viewers
 
-* [KOReader](https://github.com/koreader/koreader) ⭐ 29,226 | 🐛 1,317 | 🌐 Lua | 📅 2026-08-23: a document viewer primarily aimed at e-ink readers
+* [KOReader](https://github.com/koreader/koreader) ⭐ 29,234 | 🐛 1,321 | 🌐 Lua | 📅 2026-08-24: a document viewer primarily aimed at e-ink readers
 * [vue-pdf](https://github.com/FranckFreiburger/vue-pdf) ⭐ 2,298 | 🐛 254 | 🌐 JavaScript | 📅 2024-07-24: vue.js pdf viewer
 * [react-native-pdf](https://github.com/wonday/react-native-pdf) ⭐ 1,809 | 🐛 386 | 🌐 JavaScript | 📅 2026-08-20: a react native PDF view component
 * [PdfViewPager](https://github.com/voghDev/PdfViewPager) ⭐ 1,716 | 🐛 46 | 🌐 Java | 📅 2021-09-14: Android widget to display PDF documents in your Activities or Fragments
@@ -37,7 +37,7 @@ A curated list of resources around PDF files
 
 Anything that can produce PDF files from scratch:
 
-* [react-pdf](https://github.com/diegomura/react-pdf) ⭐ 16,754 | 🐛 308 | 🌐 TypeScript | 📅 2026-08-23: Create PDF files using React
+* [react-pdf](https://github.com/diegomura/react-pdf) ⭐ 16,756 | 🐛 308 | 🌐 TypeScript | 📅 2026-08-24: Create PDF files using React
 * [prawn](https://github.com/prawnpdf/prawn) ⭐ 4,820 | 🐛 92 | 🌐 Ruby | 📅 2026-04-18: a pure Ruby PDF generation library
 * [mpdf](https://github.com/mpdf/mpdf) ⭐ 4,701 | 🐛 357 | 🌐 PHP | 📅 2026-06-11: PHP library generating PDF files from UTF-8 encoded HTML
 * [markdown-pdf](https://github.com/alanshaw/markdown-pdf) ⭐ 2,875 | 🐛 92 | 🌐 JavaScript | 📅 2023-10-19: Markdown to PDF converter
@@ -49,27 +49,27 @@ Anything that can produce PDF files from scratch:
 
 Anything that's used to edit an existing PDF file:
 
-* [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) ⭐ 34,551 | 🐛 96 | 🌐 Python | 📅 2026-08-22: adds an OCR text layer to scanned PDF files, allowing them to be searched
-* [pdfarranger](https://github.com/pdfarranger/pdfarranger) ⭐ 5,803 | 🐛 83 | 🌐 Python | 📅 2026-08-14: a small python-gtk application, which helps the user to merge or split pdf documents and rotate, crop and rearrange their pages using a graphical interface
+* [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) ⭐ 34,559 | 🐛 97 | 🌐 Python | 📅 2026-08-22: adds an OCR text layer to scanned PDF files, allowing them to be searched
+* [pdfarranger](https://github.com/pdfarranger/pdfarranger) ⭐ 5,805 | 🐛 83 | 🌐 Python | 📅 2026-08-14: a small python-gtk application, which helps the user to merge or split pdf documents and rotate, crop and rearrange their pages using a graphical interface
 
 ## File Analysis / Security
 
-* [Malicious PDF Generator](https://github.com/jonaslejon/malicious-pdf) ⭐ 4,137 | 🐛 4 | 🌐 Python | 📅 2026-06-04: generate a bunch of malicious pdf files with phone-home functionality
+* [Malicious PDF Generator](https://github.com/jonaslejon/malicious-pdf) ⭐ 4,138 | 🐛 4 | 🌐 Python | 📅 2026-06-04: generate a bunch of malicious pdf files with phone-home functionality
 * [Pdfalyzer](https://github.com/michelcrypt4d4mus/pdfalyzer) ⭐ 396 | 🐛 5 | 🌐 Python | 📅 2026-02-07: PDF analysis tool to visualize the internal data structure of a PDF in large and colorful diagrams as well as scanning the binary streams embedded in the PDF against a collection of malicious PDF specific YARA rules.
 * [pdfbox](https://pdfbox.apache.org/1.8/commandline.html): tool in java to browse internally a pdf. [Download](https://pdfbox.apache.org/download.cgi) and use as `pdfbox-app-x.y.z.jar debug pdf_file`
 
 ## Multi-Purpose Libraries
 
-* [PyMuPDF](https://github.com/pymupdf/PyMuPDF) ⭐ 10,549 | 🐛 57 | 🌐 Python | 📅 2026-08-23 ![](https://shields.io/badge/-extract-inactive) ![](https://shields.io/badge/-manipulate-inactive) ![](https://shields.io/badge/-render-inactive): Python bindings to MuPDF.
-* [pdfcpu](https://github.com/pdfcpu/pdfcpu) ⭐ 8,795 | 🐛 112 | 🌐 Go | 📅 2026-08-20 ![](https://shields.io/badge/-extract-inactive)  ![](https://shields.io/badge/-manipulate-inactive) ![](https://shields.io/badge/-create-inactive): batch processing and scripting via a rich command line
-* [pdf-lib](https://github.com/Hopding/pdf-lib) ⭐ 8,597 | 🐛 316 | 🌐 TypeScript | 📅 2024-07-17  ![](https://shields.io/badge/-manipulate-inactive) ![](https://shields.io/badge/-create-inactive): Create and modify PDF documents in any JavaScript environment
-* [borb](https://github.com/jorisschellekens/borb) ⭐ 3,568 | 🐛 10 | 🌐 Python | 📅 2026-08-03 ![](https://shields.io/badge/-extract-inactive)  ![](https://shields.io/badge/-manipulate-inactive) ![](https://shields.io/badge/-create-inactive): reading, creating and manipulating PDF files in python
-* [pikepdf](https://github.com/pikepdf/pikepdf) ⭐ 2,795 | 🐛 20 | 🌐 Python | 📅 2026-08-18 ![](https://shields.io/badge/-extract-inactive) ![](https://shields.io/badge/-manipulate-inactive): a Python library for reading and writing PDF, powered by qpdf
-* [pypdfium2](https://github.com/pypdfium2-team/pypdfium2) ⭐ 811 | 🐛 2 | 🌐 Python | 📅 2026-08-23 ![](https://shields.io/badge/-extract-inactive) ![](https://shields.io/badge/-manipulate-inactive) ![](https://shields.io/badge/-create-inactive) ![](https://shields.io/badge/-render-inactive): Python bindings to PDFium.
+* [PyMuPDF](https://github.com/pymupdf/PyMuPDF) ⭐ 10,555 | 🐛 56 | 🌐 Python | 📅 2026-08-24 ![](https://shields.io/badge/-extract-inactive) ![](https://shields.io/badge/-manipulate-inactive) ![](https://shields.io/badge/-render-inactive): Python bindings to MuPDF.
+* [pdfcpu](https://github.com/pdfcpu/pdfcpu) ⭐ 8,797 | 🐛 114 | 🌐 Go | 📅 2026-08-24 ![](https://shields.io/badge/-extract-inactive)  ![](https://shields.io/badge/-manipulate-inactive) ![](https://shields.io/badge/-create-inactive): batch processing and scripting via a rich command line
+* [pdf-lib](https://github.com/Hopding/pdf-lib) ⭐ 8,599 | 🐛 316 | 🌐 TypeScript | 📅 2024-07-17  ![](https://shields.io/badge/-manipulate-inactive) ![](https://shields.io/badge/-create-inactive): Create and modify PDF documents in any JavaScript environment
+* [borb](https://github.com/jorisschellekens/borb) ⭐ 3,569 | 🐛 10 | 🌐 Python | 📅 2026-08-03 ![](https://shields.io/badge/-extract-inactive)  ![](https://shields.io/badge/-manipulate-inactive) ![](https://shields.io/badge/-create-inactive): reading, creating and manipulating PDF files in python
+* [pikepdf](https://github.com/pikepdf/pikepdf) ⭐ 2,798 | 🐛 20 | 🌐 Python | 📅 2026-08-18 ![](https://shields.io/badge/-extract-inactive) ![](https://shields.io/badge/-manipulate-inactive): a Python library for reading and writing PDF, powered by qpdf
+* [pypdfium2](https://github.com/pypdfium2-team/pypdfium2) ⭐ 813 | 🐛 2 | 🌐 Python | 📅 2026-08-23 ![](https://shields.io/badge/-extract-inactive) ![](https://shields.io/badge/-manipulate-inactive) ![](https://shields.io/badge/-create-inactive) ![](https://shields.io/badge/-render-inactive): Python bindings to PDFium.
 * [pdftk](https://www.pdflabs.com/tools/pdftk-server/): command-line tool for working with PDFs. It is commonly used for client-side scripting or server-side processing of PDFs.
 * [pypdf](https://pypi.org/project/pypdf/) ![](https://shields.io/badge/-extract-inactive) ![](https://shields.io/badge/-manipulate-inactive): a free and open-source pure-python PDF library capable of splitting, merging, cropping, and transforming the pages of PDF files
 * [HexaPDF](https://hexapdf.gettalong.org): ![](https://shields.io/badge/-extract-inactive) ![](https://shields.io/badge/-manipulate-inactive) ![](https://shields.io/badge/-create-inactive): A pure Ruby PDF creation and manipulation library
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
