@@ -12,10 +12,10 @@
             "archived": false,
             "id": 8986217,
             "language": "Lua",
-            "last_commit": "2026-08-25T23:30:12Z",
+            "last_commit": "2026-08-26T23:22:22Z",
             "owner": "koreader",
             "repo": "koreader",
-            "stars": 29264
+            "stars": 29290
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2021-09-14T17:00:12Z",
             "owner": "voghDev",
             "repo": "PdfViewPager",
-            "stars": 1716
+            "stars": 1717
           }
         }
       ],
@@ -81,7 +81,7 @@
             "last_commit": "2025-03-14T14:04:33Z",
             "owner": "tabulapdf",
             "repo": "tabula",
-            "stars": 7471
+            "stars": 7472
           }
         },
         {
@@ -111,7 +111,7 @@
             "last_commit": "2023-06-02T03:56:06Z",
             "owner": "tstanislawek",
             "repo": "awesome-document-understanding",
-            "stars": 1534
+            "stars": 1536
           }
         },
         {
@@ -131,7 +131,7 @@
                 "last_commit": "2026-08-06T00:46:50Z",
                 "owner": "jsvine",
                 "repo": "pdfplumber",
-                "stars": 10692
+                "stars": 10697
               }
             }
           ]
@@ -151,10 +151,10 @@
             "archived": false,
             "id": 71293321,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T21:43:17Z",
+            "last_commit": "2026-08-26T22:23:49Z",
             "owner": "diegomura",
             "repo": "react-pdf",
-            "stars": 16759
+            "stars": 16761
           }
         },
         {
@@ -184,7 +184,7 @@
             "last_commit": "2026-06-11T13:03:42Z",
             "owner": "mpdf",
             "repo": "mpdf",
-            "stars": 4699
+            "stars": 4700
           }
         },
         {
@@ -220,7 +220,7 @@
             "last_commit": "2026-08-22T03:30:49Z",
             "owner": "ocrmypdf",
             "repo": "OCRmyPDF",
-            "stars": 34579
+            "stars": 34592
           }
         },
         {
@@ -235,7 +235,7 @@
             "last_commit": "2026-08-14T14:51:29Z",
             "owner": "pdfarranger",
             "repo": "pdfarranger",
-            "stars": 5811
+            "stars": 5813
           }
         }
       ],
@@ -256,7 +256,7 @@
             "last_commit": "2026-06-04T11:56:10Z",
             "owner": "jonaslejon",
             "repo": "malicious-pdf",
-            "stars": 4141
+            "stars": 4265
           }
         },
         {
@@ -289,10 +289,10 @@
             "archived": false,
             "id": 6105714,
             "language": "Python",
-            "last_commit": "2026-08-25T13:26:44Z",
+            "last_commit": "2026-08-26T11:53:06Z",
             "owner": "pymupdf",
             "repo": "PyMuPDF",
-            "stars": 10566
+            "stars": 10580
           }
         },
         {
@@ -307,7 +307,7 @@
             "last_commit": "2026-08-24T10:03:29Z",
             "owner": "pdfcpu",
             "repo": "pdfcpu",
-            "stars": 8799
+            "stars": 8801
           }
         },
         {
@@ -322,7 +322,7 @@
             "last_commit": "2024-07-17T12:18:51Z",
             "owner": "Hopding",
             "repo": "pdf-lib",
-            "stars": 8603
+            "stars": 8605
           }
         },
         {
@@ -334,7 +334,7 @@
             "archived": false,
             "id": 310857764,
             "language": "Python",
-            "last_commit": "2026-08-03T21:08:44Z",
+            "last_commit": "2026-08-26T18:39:58Z",
             "owner": "borb-pdf",
             "repo": "borb",
             "stars": 3570
@@ -375,7 +375,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T23:51:19.273Z",
+    "last_updated": "2026-08-27T04:40:40.991Z",
     "original_repository": "py-pdf/awesome-pdf",
     "original_repository_id": 481462464,
     "original_repository_sha": "9f015f869e7e10a3d6e087837274ec0609b2978e",
