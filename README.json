@@ -12,11 +12,12 @@
             "archived": false,
             "id": 8986217,
             "language": "Lua",
-            "last_commit": "2026-08-27T10:21:34Z",
+            "last_commit": "2026-08-28T05:52:09Z",
             "owner": "koreader",
             "repo": "koreader",
-            "stars": 29297
-          }
+            "stars": 29316
+          },
+          "first_seen": "2026-08-28T07:02:56.730Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "FranckFreiburger",
             "repo": "vue-pdf",
             "stars": 2298
-          }
+          },
+          "first_seen": "2026-08-28T07:02:56.730Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "wonday",
             "repo": "react-native-pdf",
             "stars": 1809
-          }
+          },
+          "first_seen": "2026-08-28T07:02:56.730Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "voghDev",
             "repo": "PdfViewPager",
             "stars": 1717
-          }
+          },
+          "first_seen": "2026-08-28T07:02:56.730Z"
         }
       ],
       "title": "Viewers"
@@ -82,7 +86,8 @@
             "owner": "tabulapdf",
             "repo": "tabula",
             "stars": 7473
-          }
+          },
+          "first_seen": "2026-08-28T07:02:56.730Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "atlanhq",
             "repo": "camelot",
             "stars": 3716
-          }
+          },
+          "first_seen": "2026-08-28T07:02:56.730Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "tstanislawek",
             "repo": "awesome-document-understanding",
             "stars": 1536
-          }
+          },
+          "first_seen": "2026-08-28T07:02:56.730Z"
         },
         {
           "node_type": "group",
@@ -131,8 +138,9 @@
                 "last_commit": "2026-08-06T00:46:50Z",
                 "owner": "jsvine",
                 "repo": "pdfplumber",
-                "stars": 10697
-              }
+                "stars": 10699
+              },
+              "first_seen": "2026-08-28T07:02:56.730Z"
             }
           ]
         }
@@ -151,11 +159,12 @@
             "archived": false,
             "id": 71293321,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T22:23:49Z",
+            "last_commit": "2026-08-27T23:35:14Z",
             "owner": "diegomura",
             "repo": "react-pdf",
             "stars": 16761
-          }
+          },
+          "first_seen": "2026-08-28T07:02:56.730Z"
         },
         {
           "node_type": "item",
@@ -170,7 +179,8 @@
             "owner": "prawnpdf",
             "repo": "prawn",
             "stars": 4820
-          }
+          },
+          "first_seen": "2026-08-28T07:02:56.730Z"
         },
         {
           "node_type": "item",
@@ -185,7 +195,8 @@
             "owner": "mpdf",
             "repo": "mpdf",
             "stars": 4700
-          }
+          },
+          "first_seen": "2026-08-28T07:02:56.730Z"
         },
         {
           "node_type": "item",
@@ -200,7 +211,8 @@
             "owner": "alanshaw",
             "repo": "markdown-pdf",
             "stars": 2876
-          }
+          },
+          "first_seen": "2026-08-28T07:02:56.730Z"
         }
       ],
       "title": "Generators"
@@ -220,8 +232,9 @@
             "last_commit": "2026-08-22T03:30:49Z",
             "owner": "ocrmypdf",
             "repo": "OCRmyPDF",
-            "stars": 34595
-          }
+            "stars": 34601
+          },
+          "first_seen": "2026-08-28T07:02:56.730Z"
         },
         {
           "node_type": "item",
@@ -236,7 +249,8 @@
             "owner": "pdfarranger",
             "repo": "pdfarranger",
             "stars": 5814
-          }
+          },
+          "first_seen": "2026-08-28T07:02:56.730Z"
         }
       ],
       "title": "Manipulators"
@@ -256,8 +270,9 @@
             "last_commit": "2026-08-27T09:51:23Z",
             "owner": "jonaslejon",
             "repo": "malicious-pdf",
-            "stars": 4276
-          }
+            "stars": 4285
+          },
+          "first_seen": "2026-08-28T07:02:56.730Z"
         },
         {
           "node_type": "item",
@@ -272,7 +287,8 @@
             "owner": "michelcrypt4d4mus",
             "repo": "pdfalyzer",
             "stars": 396
-          }
+          },
+          "first_seen": "2026-08-28T07:02:56.730Z"
         }
       ],
       "title": "File Analysis / Security"
@@ -292,8 +308,9 @@
             "last_commit": "2026-08-27T08:31:13Z",
             "owner": "pymupdf",
             "repo": "PyMuPDF",
-            "stars": 10582
-          }
+            "stars": 10588
+          },
+          "first_seen": "2026-08-28T07:02:56.730Z"
         },
         {
           "node_type": "item",
@@ -307,8 +324,9 @@
             "last_commit": "2026-08-24T10:03:29Z",
             "owner": "pdfcpu",
             "repo": "pdfcpu",
-            "stars": 8802
-          }
+            "stars": 8804
+          },
+          "first_seen": "2026-08-28T07:02:56.730Z"
         },
         {
           "node_type": "item",
@@ -323,7 +341,8 @@
             "owner": "Hopding",
             "repo": "pdf-lib",
             "stars": 8605
-          }
+          },
+          "first_seen": "2026-08-28T07:02:56.730Z"
         },
         {
           "node_type": "item",
@@ -338,7 +357,8 @@
             "owner": "borb-pdf",
             "repo": "borb",
             "stars": 3570
-          }
+          },
+          "first_seen": "2026-08-28T07:02:56.730Z"
         },
         {
           "node_type": "item",
@@ -353,7 +373,8 @@
             "owner": "pikepdf",
             "repo": "pikepdf",
             "stars": 2798
-          }
+          },
+          "first_seen": "2026-08-28T07:02:56.730Z"
         },
         {
           "node_type": "item",
@@ -364,18 +385,19 @@
             "archived": false,
             "id": 420412416,
             "language": "Python",
-            "last_commit": "2026-08-27T11:14:42Z",
+            "last_commit": "2026-08-27T15:58:55Z",
             "owner": "pypdfium2-team",
             "repo": "pypdfium2",
             "stars": 813
-          }
+          },
+          "first_seen": "2026-08-28T07:02:56.730Z"
         }
       ],
       "title": "Multi-Purpose Libraries"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:56:07.005Z",
+    "last_updated": "2026-08-28T07:02:56.730Z",
     "original_repository_info": {
       "archived": false,
       "id": 481462464,
