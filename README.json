@@ -19,7 +19,7 @@
             "open_issues": 1326,
             "owner": "koreader",
             "repo": "koreader",
-            "stars": 29334,
+            "stars": 29335,
             "topics": [
               "cbz",
               "djvu",
@@ -717,7 +717,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:25:32.230Z",
+    "last_updated": "2026-08-29T04:56:53.328Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources around PDF files",

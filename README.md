@@ -19,7 +19,7 @@ A curated list of resources around PDF files
 
 ## Viewers
 
-* [KOReader](https://github.com/koreader/koreader) ⭐ 29,334 | 🐛 1,326 | 🌐 Lua | 📅 2026-08-29: a document viewer primarily aimed at e-ink readers
+* [KOReader](https://github.com/koreader/koreader) ⭐ 29,335 | 🐛 1,326 | 🌐 Lua | 📅 2026-08-29: a document viewer primarily aimed at e-ink readers
 * [vue-pdf](https://github.com/FranckFreiburger/vue-pdf) ⭐ 2,297 | 🐛 254 | 🌐 JavaScript | 📅 2024-07-24: vue.js pdf viewer
 * [react-native-pdf](https://github.com/wonday/react-native-pdf) ⭐ 1,809 | 🐛 386 | 🌐 JavaScript | 📅 2026-08-20: a react native PDF view component
 * [PdfViewPager](https://github.com/voghDev/PdfViewPager) ⭐ 1,717 | 🐛 46 | 🌐 Java | 📅 2021-09-14: Android widget to display PDF documents in your Activities or Fragments
