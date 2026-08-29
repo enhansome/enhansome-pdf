@@ -10,12 +10,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
+            "homepage": "http://koreader.rocks/",
             "id": 8986217,
             "language": "Lua",
-            "last_commit": "2026-08-28T05:52:09Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-29T00:23:31Z",
+            "open_issues": 1326,
             "owner": "koreader",
             "repo": "koreader",
-            "stars": 29316
+            "stars": 29334,
+            "topics": [
+              "cbz",
+              "djvu",
+              "djvu-reflow",
+              "ebook",
+              "ebook-reader",
+              "eink",
+              "epub",
+              "ereader",
+              "fb2",
+              "kindle",
+              "kobo",
+              "luajit",
+              "opds",
+              "pdf",
+              "pdf-reflow",
+              "pocketbook",
+              "reader",
+              "reflow",
+              "remarkable-tablet",
+              "ubuntu-touch"
+            ]
           },
           "first_seen": "2026-08-28T07:02:56.730Z"
         },
@@ -26,12 +52,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "vue.js pdf viewer",
+            "homepage": null,
             "id": 87447705,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-07-24T01:06:30Z",
+            "open_issues": 254,
             "owner": "FranckFreiburger",
             "repo": "vue-pdf",
-            "stars": 2298
+            "stars": 2297,
+            "topics": [
+              "component",
+              "pdf",
+              "pdf-viewer",
+              "vue-pdf",
+              "vuejs2"
+            ]
           },
           "first_seen": "2026-08-28T07:02:56.730Z"
         },
@@ -42,12 +79,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A <Pdf /> component for react-native",
+            "homepage": null,
             "id": 89375180,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-20T15:23:35Z",
+            "open_issues": 386,
             "owner": "wonday",
             "repo": "react-native-pdf",
-            "stars": 1809
+            "stars": 1809,
+            "topics": [
+              "android",
+              "ios",
+              "java",
+              "objective-c",
+              "pdf",
+              "react-native"
+            ]
           },
           "first_seen": "2026-08-28T07:02:56.730Z"
         },
@@ -58,12 +107,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Android widget that can render PDF documents stored on SD card, linked as assets, or downloaded from a remote URL.",
+            "homepage": null,
             "id": 51458005,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2021-09-14T17:00:12Z",
+            "open_issues": 46,
             "owner": "voghDev",
             "repo": "PdfViewPager",
-            "stars": 1717
+            "stars": 1717,
+            "topics": [
+              "android",
+              "espresso",
+              "library",
+              "pdf",
+              "pdf-book",
+              "pdf-document",
+              "rendering",
+              "testing",
+              "ui",
+              "ui-automated-tests"
+            ]
           },
           "first_seen": "2026-08-28T07:02:56.730Z"
         }
@@ -80,12 +145,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tabula is a tool for liberating data tables trapped inside PDF files",
+            "homepage": "http://tabula.technology",
             "id": 8711354,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2025-03-14T14:04:33Z",
+            "open_issues": 541,
             "owner": "tabulapdf",
             "repo": "tabula",
-            "stars": 7473
+            "stars": 7473,
+            "topics": [
+              "csv",
+              "excel",
+              "pdf",
+              "scraping",
+              "tables"
+            ]
           },
           "first_seen": "2026-08-28T07:02:56.730Z"
         },
@@ -96,12 +172,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Camelot: PDF Table Extraction for Humans",
+            "homepage": "https://camelot-py.readthedocs.io",
             "id": 61431113,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-01-05T15:25:42Z",
+            "open_issues": 117,
             "owner": "atlanhq",
             "repo": "camelot",
-            "stars": 3716
+            "stars": 3716,
+            "topics": [
+              "extract",
+              "for-humans",
+              "pdf",
+              "table"
+            ]
           },
           "first_seen": "2026-08-28T07:02:56.730Z"
         },
@@ -112,12 +198,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of resources for Document Understanding (DU) topic",
+            "homepage": null,
             "id": 355337917,
             "language": null,
+            "license": null,
             "last_commit": "2023-06-02T03:56:06Z",
+            "open_issues": 12,
             "owner": "tstanislawek",
             "repo": "awesome-document-understanding",
-            "stars": 1536
+            "stars": 1537,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "deep-learning",
+              "document-ai",
+              "document-analysis",
+              "document-intelligence",
+              "document-layout-analysis",
+              "document-understanding",
+              "information-extraction",
+              "intelligent-processing",
+              "key-information-extraction",
+              "machine-learning",
+              "natural-language-processing",
+              "nlp",
+              "ocr",
+              "pdf",
+              "pdf-documents",
+              "robotic-process-automation",
+              "rpa",
+              "unstructured-data"
+            ]
           },
           "first_seen": "2026-08-28T07:02:56.730Z"
         },
@@ -133,12 +245,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Plumb a PDF for detailed information about each char, rectangle, line, et cetera — and easily extract text and tables.",
+                "homepage": null,
                 "id": 41279279,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-06T00:46:50Z",
+                "open_issues": 98,
                 "owner": "jsvine",
                 "repo": "pdfplumber",
-                "stars": 10699
+                "stars": 10701,
+                "topics": [
+                  "pdf",
+                  "pdf-parsing",
+                  "table-extraction"
+                ]
               },
               "first_seen": "2026-08-28T07:02:56.730Z"
             }
@@ -157,12 +278,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📄  Create PDF files using React",
+            "homepage": "https://react-pdf.org",
             "id": 71293321,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T23:35:14Z",
+            "open_issues": 309,
             "owner": "diegomura",
             "repo": "react-pdf",
-            "stars": 16761
+            "stars": 16761,
+            "topics": [
+              "flexbox",
+              "pdf",
+              "react",
+              "renderer"
+            ]
           },
           "first_seen": "2026-08-28T07:02:56.730Z"
         },
@@ -173,12 +304,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast, Nimble PDF Writer for Ruby",
+            "homepage": "https://prawnpdf.org",
             "id": 7050,
             "language": "Ruby",
+            "license": "NOASSERTION",
             "last_commit": "2026-04-18T13:34:36Z",
+            "open_issues": 92,
             "owner": "prawnpdf",
             "repo": "prawn",
-            "stars": 4820
+            "stars": 4820,
+            "topics": [
+              "pdf",
+              "pdf-generator",
+              "prawn",
+              "ruby"
+            ]
           },
           "first_seen": "2026-08-28T07:02:56.730Z"
         },
@@ -189,12 +330,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PHP library generating PDF files from UTF-8 encoded HTML",
+            "homepage": "https://mpdf.github.io",
             "id": 31595609,
             "language": "PHP",
+            "license": "GPL-2.0",
             "last_commit": "2026-06-11T13:03:42Z",
+            "open_issues": 359,
             "owner": "mpdf",
             "repo": "mpdf",
-            "stars": 4700
+            "stars": 4700,
+            "topics": [
+              "cjk",
+              "css",
+              "html",
+              "pdf",
+              "php",
+              "utf-8"
+            ]
           },
           "first_seen": "2026-08-28T07:02:56.730Z"
         },
@@ -205,12 +358,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " :page_facing_up: Markdown to PDF converter",
+            "homepage": "https://npmjs.org/package/markdown-pdf",
             "id": 10127525,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-10-19T06:34:40Z",
+            "open_issues": 92,
             "owner": "alanshaw",
             "repo": "markdown-pdf",
-            "stars": 2876
+            "stars": 2876,
+            "topics": [
+              "converter",
+              "markdown",
+              "md",
+              "pdf",
+              "pdf-generation",
+              "template"
+            ]
           },
           "first_seen": "2026-08-28T07:02:56.730Z"
         }
@@ -227,12 +392,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched",
+            "homepage": "http://ocrmypdf.readthedocs.io/",
             "id": 15333471,
             "language": "Python",
-            "last_commit": "2026-08-22T03:30:49Z",
+            "license": "MPL-2.0",
+            "last_commit": "2026-08-28T22:15:03Z",
+            "open_issues": 98,
             "owner": "ocrmypdf",
             "repo": "OCRmyPDF",
-            "stars": 34601
+            "stars": 34603,
+            "topics": [
+              "image-processing",
+              "ocr",
+              "pdf",
+              "python",
+              "tesseract"
+            ]
           },
           "first_seen": "2026-08-28T07:02:56.730Z"
         },
@@ -243,12 +419,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Small python-gtk application, which helps the user to merge or split PDF documents and rotate, crop and rearrange their pages using an interactive and intuitive graphical interface.",
+            "homepage": null,
             "id": 44699330,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-14T14:51:29Z",
+            "open_issues": 84,
             "owner": "pdfarranger",
             "repo": "pdfarranger",
-            "stars": 5814
+            "stars": 5816,
+            "topics": [
+              "gtk",
+              "gtk3",
+              "linux",
+              "pdf",
+              "python3"
+            ]
           },
           "first_seen": "2026-08-28T07:02:56.730Z"
         }
@@ -265,12 +452,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "💀 Generate malicious PDF test files for testing phone-home callbacks, SSRF, XSS, NTLM credential theft, and data exfiltration in PDF viewers, converters, and web applications. Can be used with Burp Collaborator or Interact.sh",
+            "homepage": null,
             "id": 397204262,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-08-27T09:51:23Z",
+            "open_issues": 4,
             "owner": "jonaslejon",
             "repo": "malicious-pdf",
-            "stars": 4285
+            "stars": 4288,
+            "topics": [
+              "bugbounty",
+              "bugbounty-tool",
+              "pdf",
+              "pdf-generation",
+              "penetration-test",
+              "penetration-testing",
+              "penetrationtesting",
+              "pentesting",
+              "pentesting-tools",
+              "python",
+              "redteam",
+              "redteaming",
+              "scanner"
+            ]
           },
           "first_seen": "2026-08-28T07:02:56.730Z"
         },
@@ -281,12 +487,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Analyze PDFs with colors (and YARA)",
+            "homepage": null,
             "id": 536718843,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-02-07T00:31:01Z",
+            "open_issues": 5,
             "owner": "michelcrypt4d4mus",
             "repo": "pdfalyzer",
-            "stars": 396
+            "stars": 396,
+            "topics": [
+              "malicious-pdf-files",
+              "malware-analysis",
+              "pdf",
+              "pdf-documents",
+              "pdf-format",
+              "pdf-parser",
+              "yara",
+              "yara-rules",
+              "yara-scanner"
+            ]
           },
           "first_seen": "2026-08-28T07:02:56.730Z"
         }
@@ -303,12 +524,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PyMuPDF is a high performance Python library for data extraction, analysis, conversion & manipulation of PDF (and other) documents.",
+            "homepage": "https://pymupdf.readthedocs.io/?utm_source=github&utm_medium=referral&utm_campaign=pymupdf_github&utm_content=about&utm_term=docs",
             "id": 6105714,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-27T08:31:13Z",
+            "open_issues": 56,
             "owner": "pymupdf",
             "repo": "PyMuPDF",
-            "stars": 10588
+            "stars": 10598,
+            "topics": [
+              "data-science",
+              "epub",
+              "extract-data",
+              "font",
+              "mupdf",
+              "ocr",
+              "pdf",
+              "pdf-documents",
+              "pymupdf",
+              "python",
+              "table-extraction",
+              "tesseract",
+              "text-processing",
+              "text-shaping",
+              "xps"
+            ]
           },
           "first_seen": "2026-08-28T07:02:56.730Z"
         },
@@ -319,12 +561,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PDF tooling for Go and the command line.",
+            "homepage": "http://pdfcpu.io/",
             "id": 94702367,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T10:03:29Z",
+            "open_issues": 115,
             "owner": "pdfcpu",
             "repo": "pdfcpu",
-            "stars": 8804
+            "stars": 8804,
+            "topics": [
+              "cli",
+              "go",
+              "golang",
+              "golang-library",
+              "pdf",
+              "pdf-files",
+              "pdf-tools"
+            ]
           },
           "first_seen": "2026-08-28T07:02:56.730Z"
         },
@@ -335,12 +590,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create and modify PDF documents in any JavaScript environment",
+            "homepage": "https://pdf-lib.js.org",
             "id": 102369738,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-07-17T12:18:51Z",
+            "open_issues": 316,
             "owner": "Hopding",
             "repo": "pdf-lib",
-            "stars": 8605
+            "stars": 8607,
+            "topics": [
+              "copy",
+              "copying",
+              "create",
+              "creation",
+              "document",
+              "documents",
+              "edit",
+              "editing",
+              "generation",
+              "javascript",
+              "lib",
+              "library",
+              "modification",
+              "modify",
+              "pdf",
+              "typescript",
+              "umd"
+            ]
           },
           "first_seen": "2026-08-28T07:02:56.730Z"
         },
@@ -351,12 +629,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "borb is a library for reading, creating and manipulating PDF files in python.",
+            "homepage": "https://borbpdf.com/",
             "id": 310857764,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-26T18:39:58Z",
+            "open_issues": 10,
             "owner": "borb-pdf",
             "repo": "borb",
-            "stars": 3570
+            "stars": 3570,
+            "topics": [
+              "library",
+              "pdf",
+              "pdf-conversion",
+              "pdf-converter",
+              "pdf-generation",
+              "pdf-library",
+              "python",
+              "python3",
+              "sdk",
+              "typesetting"
+            ]
           },
           "first_seen": "2026-08-28T07:02:56.730Z"
         },
@@ -367,12 +661,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Python library for reading and writing PDF, powered by QPDF",
+            "homepage": "https://pikepdf.readthedocs.io/",
             "id": 103577933,
             "language": "Python",
+            "license": "MPL-2.0",
             "last_commit": "2026-08-18T07:46:48Z",
+            "open_issues": 20,
             "owner": "pikepdf",
             "repo": "pikepdf",
-            "stars": 2798
+            "stars": 2798,
+            "topics": [
+              "existing-pdfs",
+              "pdf",
+              "pdf-generation",
+              "pdf-manipulation",
+              "pikepdf",
+              "pypdf2",
+              "python",
+              "qpdf"
+            ]
           },
           "first_seen": "2026-08-28T07:02:56.730Z"
         },
@@ -383,12 +691,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python bindings to PDFium, reasonably cross-platform.",
+            "homepage": "https://pypdfium2.readthedocs.io/",
             "id": 420412416,
             "language": "Python",
-            "last_commit": "2026-08-27T15:58:55Z",
+            "license": null,
+            "last_commit": "2026-08-28T21:54:40Z",
+            "open_issues": 3,
             "owner": "pypdfium2-team",
             "repo": "pypdfium2",
-            "stars": 813
+            "stars": 814,
+            "topics": [
+              "pdf",
+              "pdf-documents",
+              "pdf-to-image",
+              "pdfium",
+              "python",
+              "rasterization"
+            ]
           },
           "first_seen": "2026-08-28T07:02:56.730Z"
         }
@@ -397,15 +717,23 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T07:02:56.730Z",
+    "last_updated": "2026-08-29T04:25:32.230Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of resources around PDF files",
+      "homepage": null,
       "id": 481462464,
       "language": null,
+      "license": "BSD-3-Clause",
       "last_commit": "2024-08-02T05:35:42Z",
+      "open_issues": 38,
       "owner": "py-pdf",
       "repo": "awesome-pdf",
-      "stars": 161
+      "stars": 161,
+      "topics": [
+        "awesome-list",
+        "pdf"
+      ]
     },
     "original_repository_sha": "9f015f869e7e10a3d6e087837274ec0609b2978e",
     "enhanced_repository": "enhansome/enhansome-pdf",
