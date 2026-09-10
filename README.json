@@ -15,11 +15,11 @@
             "id": 8986217,
             "language": "Lua",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-09T00:43:25Z",
+            "last_commit": "2026-09-09T22:55:52Z",
             "open_issues": 1345,
             "owner": "koreader",
             "repo": "koreader",
-            "stars": 29583,
+            "stars": 29612,
             "topics": [
               "cbz",
               "djvu",
@@ -154,7 +154,7 @@
             "open_issues": 541,
             "owner": "tabulapdf",
             "repo": "tabula",
-            "stars": 7482,
+            "stars": 7481,
             "topics": [
               "csv",
               "excel",
@@ -254,7 +254,7 @@
                 "open_issues": 104,
                 "owner": "jsvine",
                 "repo": "pdfplumber",
-                "stars": 10725,
+                "stars": 10729,
                 "topics": [
                   "pdf",
                   "pdf-parsing",
@@ -287,7 +287,7 @@
             "open_issues": 319,
             "owner": "diegomura",
             "repo": "react-pdf",
-            "stars": 16772,
+            "stars": 16776,
             "topics": [
               "flexbox",
               "pdf",
@@ -339,7 +339,7 @@
             "open_issues": 354,
             "owner": "mpdf",
             "repo": "mpdf",
-            "stars": 4702,
+            "stars": 4701,
             "topics": [
               "cjk",
               "css",
@@ -367,7 +367,7 @@
             "open_issues": 92,
             "owner": "alanshaw",
             "repo": "markdown-pdf",
-            "stars": 2876,
+            "stars": 2875,
             "topics": [
               "converter",
               "markdown",
@@ -401,7 +401,7 @@
             "open_issues": 98,
             "owner": "ocrmypdf",
             "repo": "OCRmyPDF",
-            "stars": 34695,
+            "stars": 34705,
             "topics": [
               "image-processing",
               "ocr",
@@ -428,7 +428,7 @@
             "open_issues": 85,
             "owner": "pdfarranger",
             "repo": "pdfarranger",
-            "stars": 5857,
+            "stars": 5860,
             "topics": [
               "gtk",
               "gtk3",
@@ -461,7 +461,7 @@
             "open_issues": 4,
             "owner": "jonaslejon",
             "repo": "malicious-pdf",
-            "stars": 4302,
+            "stars": 4303,
             "topics": [
               "bugbounty",
               "bugbounty-tool",
@@ -496,7 +496,7 @@
             "open_issues": 5,
             "owner": "michelcrypt4d4mus",
             "repo": "pdfalyzer",
-            "stars": 396,
+            "stars": 397,
             "topics": [
               "malicious-pdf-files",
               "malware-analysis",
@@ -530,10 +530,10 @@
             "language": "Python",
             "license": "AGPL-3.0",
             "last_commit": "2026-09-08T13:54:29Z",
-            "open_issues": 56,
+            "open_issues": 57,
             "owner": "pymupdf",
             "repo": "PyMuPDF",
-            "stars": 10669,
+            "stars": 10675,
             "topics": [
               "data-science",
               "epub",
@@ -567,7 +567,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-09-07T10:03:27Z",
-            "open_issues": 118,
+            "open_issues": 119,
             "owner": "pdfcpu",
             "repo": "pdfcpu",
             "stars": 8828,
@@ -599,7 +599,7 @@
             "open_issues": 317,
             "owner": "Hopding",
             "repo": "pdf-lib",
-            "stars": 8624,
+            "stars": 8625,
             "topics": [
               "copy",
               "copying",
@@ -696,7 +696,7 @@
             "id": 420412416,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-09-06T20:33:31Z",
+            "last_commit": "2026-09-09T22:05:06Z",
             "open_issues": 3,
             "owner": "pypdfium2-team",
             "repo": "pypdfium2",
@@ -717,7 +717,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T01:27:15.860Z",
+    "last_updated": "2026-09-10T01:23:02.554Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources around PDF files",
