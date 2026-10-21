@@ -15,11 +15,11 @@
             "id": 8986217,
             "language": "Lua",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-19T22:10:13Z",
-            "open_issues": 1391,
+            "last_commit": "2026-10-21T01:38:40Z",
+            "open_issues": 1387,
             "owner": "koreader",
             "repo": "koreader",
-            "stars": 30448,
+            "stars": 30476,
             "topics": [
               "cbz",
               "djvu",
@@ -85,7 +85,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-08-20T15:23:35Z",
-            "open_issues": 394,
+            "open_issues": 393,
             "owner": "wonday",
             "repo": "react-native-pdf",
             "stars": 1815,
@@ -154,7 +154,7 @@
             "open_issues": 541,
             "owner": "tabulapdf",
             "repo": "tabula",
-            "stars": 7488,
+            "stars": 7489,
             "topics": [
               "csv",
               "excel",
@@ -254,7 +254,7 @@
                 "open_issues": 119,
                 "owner": "jsvine",
                 "repo": "pdfplumber",
-                "stars": 10828,
+                "stars": 10833,
                 "topics": [
                   "pdf",
                   "pdf-parsing",
@@ -283,11 +283,11 @@
             "id": 71293321,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-17T10:11:33Z",
-            "open_issues": 346,
+            "last_commit": "2026-10-20T22:52:40Z",
+            "open_issues": 349,
             "owner": "diegomura",
             "repo": "react-pdf",
-            "stars": 16835,
+            "stars": 16837,
             "topics": [
               "flexbox",
               "pdf",
@@ -313,7 +313,7 @@
             "open_issues": 94,
             "owner": "prawnpdf",
             "repo": "prawn",
-            "stars": 4824,
+            "stars": 4823,
             "topics": [
               "pdf",
               "pdf-generator",
@@ -339,7 +339,7 @@
             "open_issues": 360,
             "owner": "mpdf",
             "repo": "mpdf",
-            "stars": 4703,
+            "stars": 4704,
             "topics": [
               "cjk",
               "css",
@@ -367,7 +367,7 @@
             "open_issues": 91,
             "owner": "alanshaw",
             "repo": "markdown-pdf",
-            "stars": 2879,
+            "stars": 2880,
             "topics": [
               "converter",
               "markdown",
@@ -401,7 +401,7 @@
             "open_issues": 66,
             "owner": "ocrmypdf",
             "repo": "OCRmyPDF",
-            "stars": 35101,
+            "stars": 35105,
             "topics": [
               "image-processing",
               "ocr",
@@ -461,7 +461,7 @@
             "open_issues": 4,
             "owner": "jonaslejon",
             "repo": "malicious-pdf",
-            "stars": 4488,
+            "stars": 4492,
             "topics": [
               "bugbounty",
               "bugbounty-tool",
@@ -529,11 +529,11 @@
             "id": 6105714,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-19T20:01:31Z",
-            "open_issues": 59,
+            "last_commit": "2026-10-20T10:01:34Z",
+            "open_issues": 60,
             "owner": "pymupdf",
             "repo": "PyMuPDF",
-            "stars": 10935,
+            "stars": 10941,
             "topics": [
               "data-science",
               "epub",
@@ -566,11 +566,11 @@
             "id": 94702367,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-19T22:06:33Z",
+            "last_commit": "2026-10-20T18:24:54Z",
             "open_issues": 104,
             "owner": "pdfcpu",
             "repo": "pdfcpu",
-            "stars": 8875,
+            "stars": 8877,
             "topics": [
               "cli",
               "go",
@@ -599,7 +599,7 @@
             "open_issues": 318,
             "owner": "Hopding",
             "repo": "pdf-lib",
-            "stars": 8662,
+            "stars": 8664,
             "topics": [
               "copy",
               "copying",
@@ -717,7 +717,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T02:01:28.159Z",
+    "last_updated": "2026-10-21T01:56:02.898Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources around PDF files",
