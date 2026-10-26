@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "KOReader",
-          "description": "a document viewer primarily aimed at e-ink readers",
+          "description": "a document viewer primarily aimed at e-ink readers also available on Android",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -15,11 +15,11 @@
             "id": 8986217,
             "language": "Lua",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-24T18:27:40Z",
-            "open_issues": 1389,
+            "last_commit": "2026-10-26T01:18:23Z",
+            "open_issues": 1393,
             "owner": "koreader",
             "repo": "koreader",
-            "stars": 30579,
+            "stars": 30605,
             "topics": [
               "cbz",
               "djvu",
@@ -44,6 +44,27 @@
             ]
           },
           "first_seen": "2026-08-28T07:02:56.730Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Librera FD",
+          "description": "a document viewer for Android with customizable text-to-speech",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Book Reader for Android",
+            "homepage": "https://librera.app/librera-reader/",
+            "id": 88200328,
+            "language": "C",
+            "license": "NOASSERTION",
+            "last_commit": "2026-10-25T19:09:15Z",
+            "open_issues": 532,
+            "owner": "foobnix",
+            "repo": "LibreraReader",
+            "stars": 4961,
+            "topics": []
+          },
+          "first_seen": "2026-10-26T01:33:45.448Z"
         },
         {
           "node_type": "item",
@@ -85,7 +106,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-08-20T15:23:35Z",
-            "open_issues": 393,
+            "open_issues": 395,
             "owner": "wonday",
             "repo": "react-native-pdf",
             "stars": 1815,
@@ -131,6 +152,45 @@
             ]
           },
           "first_seen": "2026-08-28T07:02:56.730Z"
+        },
+        {
+          "node_type": "item",
+          "title": "ng2-pdfjs-viewer",
+          "description": "a comprehensive Angular PDF viewer built on PDF.js with annotations, forms, signatures, search, and read-aloud",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "#1 Angular PDF viewer",
+            "homepage": "https://angularpdf.com",
+            "id": 127339188,
+            "language": "JavaScript",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-24T03:20:16Z",
+            "open_issues": 41,
+            "owner": "intbot",
+            "repo": "ng2-pdfjs-viewer",
+            "stars": 253,
+            "topics": [
+              "angular",
+              "angular-pdf-viewer",
+              "angular19",
+              "angular20",
+              "angular21",
+              "angular22",
+              "ng2-pdfjs-viewer",
+              "pdf",
+              "pdf-forms",
+              "pdf-reader",
+              "pdf-rendering",
+              "pdf-search",
+              "pdf-signature",
+              "pdf-viewer",
+              "pdfjs",
+              "pdfjs-wrapper",
+              "text-to-speech"
+            ]
+          },
+          "first_seen": "2026-10-26T01:33:45.448Z"
         }
       ],
       "title": "Viewers"
@@ -138,6 +198,48 @@
     {
       "description": null,
       "items": [
+        {
+          "node_type": "item",
+          "title": "xberg",
+          "description": "a Rust-core document intelligence framework that extracts text, tables, metadata, and images from PDFs and 97+ formats, with optional Tesseract OCR and bindings for 11 languages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Polyglot document intelligence with a Rust core: extract text, metadata, images, tables, and structured data from 106 formats across 140 file extensions, plus code intelligence for 371 languages. Fifteen bindings, with CLI, REST API, and MCP server.",
+            "homepage": "https://docs.xberg.io",
+            "id": 925434317,
+            "language": "Rust",
+            "license": "MIT",
+            "last_commit": "2026-10-26T00:50:41Z",
+            "open_issues": 25,
+            "owner": "xberg-io",
+            "repo": "xberg",
+            "stars": 9449,
+            "topics": [
+              "bun",
+              "csharp",
+              "document-intelligence",
+              "elixir",
+              "ffi",
+              "golang",
+              "java",
+              "metadata-extraction",
+              "node",
+              "pdf-extraction",
+              "pdfium",
+              "php",
+              "python",
+              "rag",
+              "ruby",
+              "rust",
+              "table-extraction",
+              "tesseract",
+              "text-extraction",
+              "wasm"
+            ]
+          },
+          "first_seen": "2026-10-26T01:33:45.448Z"
+        },
         {
           "node_type": "item",
           "title": "Tabula",
@@ -154,7 +256,7 @@
             "open_issues": 541,
             "owner": "tabulapdf",
             "repo": "tabula",
-            "stars": 7489,
+            "stars": 7490,
             "topics": [
               "csv",
               "excel",
@@ -181,7 +283,7 @@
             "open_issues": 117,
             "owner": "atlanhq",
             "repo": "camelot",
-            "stars": 3706,
+            "stars": 3705,
             "topics": [
               "extract",
               "for-humans",
@@ -190,6 +292,30 @@
             ]
           },
           "first_seen": "2026-08-28T07:02:56.730Z"
+        },
+        {
+          "node_type": "item",
+          "title": "invoice2data",
+          "description": "Swiss-army knife for structured data extraction from pdf documents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Extract structured data from PDF invoices",
+            "homepage": "https://invoice2data.readthedocs.io/",
+            "id": 33660820,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-10-24T21:23:20Z",
+            "open_issues": 20,
+            "owner": "invoice-x",
+            "repo": "invoice2data",
+            "stars": 2238,
+            "topics": [
+              "data-mining",
+              "python"
+            ]
+          },
+          "first_seen": "2026-10-26T01:33:45.448Z"
         },
         {
           "node_type": "item",
@@ -254,7 +380,7 @@
                 "open_issues": 121,
                 "owner": "jsvine",
                 "repo": "pdfplumber",
-                "stars": 10849,
+                "stars": 10851,
                 "topics": [
                   "pdf",
                   "pdf-parsing",
@@ -284,10 +410,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-20T22:52:40Z",
-            "open_issues": 359,
+            "open_issues": 360,
             "owner": "diegomura",
             "repo": "react-pdf",
-            "stars": 16843,
+            "stars": 16844,
             "topics": [
               "flexbox",
               "pdf",
@@ -313,7 +439,7 @@
             "open_issues": 96,
             "owner": "prawnpdf",
             "repo": "prawn",
-            "stars": 4823,
+            "stars": 4824,
             "topics": [
               "pdf",
               "pdf-generator",
@@ -336,10 +462,10 @@
             "language": "PHP",
             "license": "GPL-2.0",
             "last_commit": "2026-10-23T14:04:55Z",
-            "open_issues": 363,
+            "open_issues": 364,
             "owner": "mpdf",
             "repo": "mpdf",
-            "stars": 4704,
+            "stars": 4703,
             "topics": [
               "cjk",
               "css",
@@ -397,11 +523,11 @@
             "id": 15333471,
             "language": "Python",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-23T22:32:18Z",
+            "last_commit": "2026-10-25T07:47:57Z",
             "open_issues": 67,
             "owner": "ocrmypdf",
             "repo": "OCRmyPDF",
-            "stars": 35140,
+            "stars": 35151,
             "topics": [
               "image-processing",
               "ocr",
@@ -428,7 +554,7 @@
             "open_issues": 91,
             "owner": "pdfarranger",
             "repo": "pdfarranger",
-            "stars": 5995,
+            "stars": 5996,
             "topics": [
               "gtk",
               "gtk3",
@@ -461,7 +587,7 @@
             "open_issues": 4,
             "owner": "jonaslejon",
             "repo": "malicious-pdf",
-            "stars": 4498,
+            "stars": 4500,
             "topics": [
               "bugbounty",
               "bugbounty-tool",
@@ -493,10 +619,10 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2026-02-07T00:31:01Z",
-            "open_issues": 5,
+            "open_issues": 4,
             "owner": "michelcrypt4d4mus",
             "repo": "pdfalyzer",
-            "stars": 396,
+            "stars": 397,
             "topics": [
               "malicious-pdf-files",
               "malware-analysis",
@@ -529,11 +655,11 @@
             "id": 6105714,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-24T22:12:02Z",
-            "open_issues": 62,
+            "last_commit": "2026-10-25T22:10:18Z",
+            "open_issues": 68,
             "owner": "pymupdf",
             "repo": "PyMuPDF",
-            "stars": 10987,
+            "stars": 10990,
             "topics": [
               "data-science",
               "epub",
@@ -567,10 +693,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-21T21:37:41Z",
-            "open_issues": 105,
+            "open_issues": 106,
             "owner": "pdfcpu",
             "repo": "pdfcpu",
-            "stars": 8882,
+            "stars": 8883,
             "topics": [
               "cli",
               "go",
@@ -666,11 +792,11 @@
             "id": 103577933,
             "language": "Python",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-24T00:17:28Z",
+            "last_commit": "2026-10-25T08:26:23Z",
             "open_issues": 19,
             "owner": "pikepdf",
             "repo": "pikepdf",
-            "stars": 2816,
+            "stars": 2817,
             "topics": [
               "existing-pdfs",
               "pdf",
@@ -683,6 +809,46 @@
             ]
           },
           "first_seen": "2026-08-28T07:02:56.730Z"
+        },
+        {
+          "node_type": "item",
+          "title": "pdf_oxide",
+          "description": "Fast PDF toolkit written in Rust with bindings for Python, Go, JavaScript/TypeScript, C#/.NET, Java, PHP, Ruby, and WASM. Text extraction, image extraction, markdown conversion, PDF creation and editing. MIT/Apache-2.0 licensed.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "The fastest PDF library for Python and Rust. Text extraction, image extraction, markdown conversion, PDF creation & editing. 0.8ms mean, 5× faster than industry leaders, 100% pass rate on 3,830 PDFs. MIT/Apache-2.0.",
+            "homepage": "https://oxide.fyi",
+            "id": 1090617520,
+            "language": "Rust",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-20T12:43:55Z",
+            "open_issues": 410,
+            "owner": "yfedoseev",
+            "repo": "pdf_oxide",
+            "stars": 1091,
+            "topics": [
+              "data-extraction",
+              "document-processing",
+              "fast",
+              "image-extraction",
+              "llm",
+              "markdown",
+              "pdf",
+              "pdf-editor",
+              "pdf-generation",
+              "pdf-library",
+              "pdf-parser",
+              "pdf-to-markdown",
+              "pdf-to-text",
+              "pyo3",
+              "python",
+              "rag",
+              "rust",
+              "text-extraction"
+            ]
+          },
+          "first_seen": "2026-10-26T01:33:45.448Z"
         },
         {
           "node_type": "item",
@@ -717,7 +883,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T01:30:46.173Z",
+    "last_updated": "2026-10-26T01:33:45.448Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources around PDF files",
@@ -725,8 +891,8 @@
       "id": 481462464,
       "language": null,
       "license": "BSD-3-Clause",
-      "last_commit": "2024-08-02T05:35:42Z",
-      "open_issues": 42,
+      "last_commit": "2026-10-25T08:47:26Z",
+      "open_issues": 9,
       "owner": "py-pdf",
       "repo": "awesome-pdf",
       "stars": 162,
@@ -735,7 +901,7 @@
         "pdf"
       ]
     },
-    "original_repository_sha": "9f015f869e7e10a3d6e087837274ec0609b2978e",
+    "original_repository_sha": "cdf5ae98b9b53f61077f05b01fe9128edb9d50cb",
     "enhanced_repository": "enhansome/enhansome-pdf",
     "enhanced_repository_description": null,
     "title": "Awesome PDF with stars"
