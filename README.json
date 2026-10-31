@@ -15,11 +15,11 @@
             "id": 8986217,
             "language": "Lua",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-29T21:30:25Z",
-            "open_issues": 1395,
+            "last_commit": "2026-10-30T22:19:51Z",
+            "open_issues": 1397,
             "owner": "koreader",
             "repo": "koreader",
-            "stars": 30739,
+            "stars": 30757,
             "topics": [
               "cbz",
               "djvu",
@@ -58,10 +58,10 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-10-29T19:23:13Z",
-            "open_issues": 530,
+            "open_issues": 531,
             "owner": "foobnix",
             "repo": "LibreraReader",
-            "stars": 4977,
+            "stars": 4981,
             "topics": []
           },
           "first_seen": "2026-10-26T01:33:45.448Z"
@@ -205,16 +205,16 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Polyglot document intelligence with a Rust core: extract text, metadata, images, tables, and structured data from 106 formats across 140 file extensions, plus code intelligence for 371 languages. Fifteen bindings, with CLI, REST API, and MCP server.",
+            "description": "The fast, precise document-intelligence engine for every language: text, tables and metadata from 100+ formats, with OCR, transcription and code intelligence.",
             "homepage": "https://docs.xberg.io",
             "id": 925434317,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-30T02:06:18Z",
-            "open_issues": 21,
+            "last_commit": "2026-10-31T01:43:11Z",
+            "open_issues": 27,
             "owner": "xberg-io",
             "repo": "xberg",
-            "stars": 9464,
+            "stars": 9469,
             "topics": [
               "bun",
               "csharp",
@@ -226,7 +226,6 @@
               "metadata-extraction",
               "node",
               "pdf-extraction",
-              "pdfium",
               "php",
               "python",
               "rag",
@@ -235,7 +234,8 @@
               "table-extraction",
               "tesseract",
               "text-extraction",
-              "wasm"
+              "wasm",
+              "xberg"
             ]
           },
           "first_seen": "2026-10-26T01:33:45.448Z"
@@ -256,7 +256,7 @@
             "open_issues": 541,
             "owner": "tabulapdf",
             "repo": "tabula",
-            "stars": 7492,
+            "stars": 7494,
             "topics": [
               "csv",
               "excel",
@@ -283,7 +283,7 @@
             "open_issues": 117,
             "owner": "atlanhq",
             "repo": "camelot",
-            "stars": 3705,
+            "stars": 3706,
             "topics": [
               "extract",
               "for-humans",
@@ -309,7 +309,7 @@
             "open_issues": 20,
             "owner": "invoice-x",
             "repo": "invoice2data",
-            "stars": 2241,
+            "stars": 2243,
             "topics": [
               "data-mining",
               "python"
@@ -333,7 +333,7 @@
             "open_issues": 15,
             "owner": "tstanislawek",
             "repo": "awesome-document-understanding",
-            "stars": 1545,
+            "stars": 1546,
             "topics": [
               "awesome",
               "awesome-list",
@@ -377,10 +377,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-15T01:46:06Z",
-                "open_issues": 123,
+                "open_issues": 126,
                 "owner": "jsvine",
                 "repo": "pdfplumber",
-                "stars": 10854,
+                "stars": 10856,
                 "topics": [
                   "pdf",
                   "pdf-parsing",
@@ -413,7 +413,7 @@
             "open_issues": 361,
             "owner": "diegomura",
             "repo": "react-pdf",
-            "stars": 16847,
+            "stars": 16850,
             "topics": [
               "flexbox",
               "pdf",
@@ -439,7 +439,7 @@
             "open_issues": 96,
             "owner": "prawnpdf",
             "repo": "prawn",
-            "stars": 4824,
+            "stars": 4825,
             "topics": [
               "pdf",
               "pdf-generator",
@@ -493,7 +493,7 @@
             "open_issues": 91,
             "owner": "alanshaw",
             "repo": "markdown-pdf",
-            "stars": 2881,
+            "stars": 2882,
             "topics": [
               "converter",
               "markdown",
@@ -527,7 +527,7 @@
             "open_issues": 68,
             "owner": "ocrmypdf",
             "repo": "OCRmyPDF",
-            "stars": 35192,
+            "stars": 35200,
             "topics": [
               "image-processing",
               "ocr",
@@ -554,7 +554,7 @@
             "open_issues": 92,
             "owner": "pdfarranger",
             "repo": "pdfarranger",
-            "stars": 6006,
+            "stars": 6010,
             "topics": [
               "gtk",
               "gtk3",
@@ -587,7 +587,7 @@
             "open_issues": 4,
             "owner": "jonaslejon",
             "repo": "malicious-pdf",
-            "stars": 4501,
+            "stars": 4503,
             "topics": [
               "bugbounty",
               "bugbounty-tool",
@@ -655,11 +655,11 @@
             "id": 6105714,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-29T23:33:31Z",
-            "open_issues": 70,
+            "last_commit": "2026-10-30T18:08:00Z",
+            "open_issues": 71,
             "owner": "pymupdf",
             "repo": "PyMuPDF",
-            "stars": 11016,
+            "stars": 11027,
             "topics": [
               "data-science",
               "epub",
@@ -693,7 +693,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-28T22:06:52Z",
-            "open_issues": 107,
+            "open_issues": 108,
             "owner": "pdfcpu",
             "repo": "pdfcpu",
             "stars": 8889,
@@ -725,7 +725,7 @@
             "open_issues": 318,
             "owner": "Hopding",
             "repo": "pdf-lib",
-            "stars": 8663,
+            "stars": 8665,
             "topics": [
               "copy",
               "copying",
@@ -764,7 +764,7 @@
             "open_issues": 11,
             "owner": "borb-pdf",
             "repo": "borb",
-            "stars": 3572,
+            "stars": 3571,
             "topics": [
               "library",
               "pdf",
@@ -796,7 +796,7 @@
             "open_issues": 19,
             "owner": "pikepdf",
             "repo": "pikepdf",
-            "stars": 2818,
+            "stars": 2819,
             "topics": [
               "existing-pdfs",
               "pdf",
@@ -822,8 +822,8 @@
             "id": 1090617520,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-30T00:35:41Z",
-            "open_issues": 317,
+            "last_commit": "2026-10-31T00:38:47Z",
+            "open_issues": 351,
             "owner": "yfedoseev",
             "repo": "pdf_oxide",
             "stars": 1150,
@@ -866,7 +866,7 @@
             "open_issues": 4,
             "owner": "pypdfium2-team",
             "repo": "pypdfium2",
-            "stars": 849,
+            "stars": 851,
             "topics": [
               "pdf",
               "pdf-documents",
@@ -883,7 +883,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T02:51:29.101Z",
+    "last_updated": "2026-10-31T02:40:19.508Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources around PDF files",
